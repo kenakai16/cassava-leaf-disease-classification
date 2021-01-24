@@ -49,6 +49,7 @@ setting and show the efficacy of our method on large data sets. Our methodology 
 based on Bregman divergences and is superior to a related two-temperature method
 using the Tsallis divergence.
 
+### Implementation with code:      [here]("implementation.html")
 ## Citations
 ```
 @article{dosovitskiy2020,
